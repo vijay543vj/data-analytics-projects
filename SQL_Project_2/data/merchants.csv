@@ -1,0 +1,121 @@
+merchant_id,merchant_name,category,city,region,onboarding_date,contract_type,settlement_cycle_days,monthly_txn_limit
+M0001,SpicePath #001,Retail,Kolkata,East,2022-01-09,Standard,7,5000
+M0002,HealthPlus #002,Food & Beverage,Noida,North,2021-05-28,Enterprise,3,5000
+M0003,DigiWorld #003,Entertainment,Gurugram,North,2022-09-11,Premium,3,2000
+M0004,SpicePath #004,Fuel,Delhi,North,2022-07-14,Enterprise,1,5000
+M0005,CineZone #005,Healthcare,Kolkata,East,2022-07-01,Enterprise,2,10000
+M0006,QuickMart #006,Electronics,Noida,North,2022-04-10,Standard,3,500
+M0007,DigiWorld #007,Fuel,Hyderabad,South,2021-11-05,Enterprise,2,5000
+M0008,ShopEase #008,Electronics,Chennai,South,2022-06-29,Standard,3,500
+M0009,PlayHub #009,Healthcare,Mumbai,West,2022-04-27,Premium,2,2000
+M0010,GasSure #010,Entertainment,Kolkata,East,2022-09-28,Enterprise,3,2000
+M0011,ShopEase #011,Travel,Mumbai,West,2021-10-04,Premium,1,2000
+M0012,FunArena #012,Healthcare,Gurugram,North,2021-10-11,Enterprise,2,500
+M0013,HealthPlus #013,Utilities,Gurugram,North,2021-12-29,Premium,3,5000
+M0014,NovaTech #014,Fuel,Hyderabad,South,2021-05-26,Standard,1,10000
+M0015,SpicePath #015,Food & Beverage,Pune,West,2021-08-12,Enterprise,1,500
+M0016,CineZone #016,Retail,Kolkata,East,2021-10-03,Enterprise,3,10000
+M0017,EnergyOne #017,Utilities,Delhi,North,2022-09-30,Premium,2,5000
+M0018,MediPoint #018,Food & Beverage,Pune,West,2022-05-05,Standard,7,5000
+M0019,PowerGrid #019,Food & Beverage,Noida,North,2021-09-28,Premium,1,500
+M0020,CineZone #020,Electronics,Pune,West,2021-10-30,Premium,1,1000
+M0021,CareNow #021,Healthcare,Delhi,North,2021-04-13,Standard,3,10000
+M0022,TechBazaar #022,Travel,Chennai,South,2022-11-12,Premium,7,2000
+M0023,ShopEase #023,Fuel,Gurugram,North,2021-04-22,Premium,7,10000
+M0024,MediPoint #024,Food & Beverage,Chennai,South,2021-11-08,Enterprise,7,5000
+M0025,TechBazaar #025,Electronics,Kolkata,East,2021-08-01,Premium,3,5000
+M0026,FunArena #026,Fuel,Pune,West,2022-11-26,Enterprise,2,500
+M0027,GasSure #027,Healthcare,Kolkata,East,2021-12-07,Standard,1,1000
+M0028,TripNest #028,Travel,Chennai,South,2022-01-31,Premium,3,2000
+M0029,PetroPlus #029,Utilities,Gurugram,North,2021-10-29,Standard,7,10000
+M0030,MediPoint #030,Healthcare,Bengaluru,South,2021-09-29,Enterprise,1,1000
+M0031,RoamFast #031,Retail,Hyderabad,South,2021-05-30,Enterprise,1,2000
+M0032,VoyageX #032,Healthcare,Kolkata,East,2021-05-22,Enterprise,7,5000
+M0033,FunArena #033,Food & Beverage,Kolkata,East,2021-03-25,Premium,7,5000
+M0034,NovaTech #034,Travel,Bengaluru,South,2022-04-21,Enterprise,1,500
+M0035,ShopEase #035,Healthcare,Noida,North,2021-07-21,Enterprise,1,500
+M0036,ValueStore #036,Food & Beverage,Noida,North,2022-04-22,Premium,2,10000
+M0037,FunArena #037,Food & Beverage,Chennai,South,2022-02-26,Premium,2,1000
+M0038,UrbanBite #038,Travel,Kolkata,East,2021-09-12,Premium,3,1000
+M0039,PetroPlus #039,Healthcare,Gurugram,North,2021-07-23,Enterprise,1,2000
+M0040,BroadLink #040,Healthcare,Mumbai,West,2022-11-03,Enterprise,2,10000
+M0041,AquaFlow #041,Electronics,Chennai,South,2021-10-30,Premium,1,500
+M0042,HealthPlus #042,Fuel,Chennai,South,2021-12-23,Premium,7,10000
+M0043,NovaTech #043,Electronics,Hyderabad,South,2021-01-17,Standard,2,5000
+M0044,ClickFlix #044,Healthcare,Kolkata,East,2021-01-06,Standard,7,500
+M0045,PetroPlus #045,Utilities,Noida,North,2021-10-14,Premium,7,1000
+M0046,VoyageX #046,Healthcare,Noida,North,2022-06-16,Premium,7,500
+M0047,SpicePath #047,Retail,Pune,West,2021-08-11,Standard,3,5000
+M0048,UrbanBite #048,Food & Beverage,Ahmedabad,West,2022-07-25,Premium,7,500
+M0049,VoyageX #049,Entertainment,Ahmedabad,West,2021-03-05,Enterprise,3,1000
+M0050,TasteHub #050,Healthcare,Ahmedabad,West,2021-06-04,Enterprise,1,5000
+M0051,ClickFlix #051,Retail,Hyderabad,South,2022-11-05,Enterprise,1,2000
+M0052,MediPoint #052,Retail,Gurugram,North,2021-10-25,Premium,2,10000
+M0053,CafeCrest #053,Fuel,Ahmedabad,West,2021-04-05,Premium,2,2000
+M0054,FuelStop #054,Travel,Bengaluru,South,2021-05-04,Standard,3,5000
+M0055,PharmaLink #055,Healthcare,Delhi,North,2021-01-23,Premium,1,5000
+M0056,VoyageX #056,Travel,Chennai,South,2022-11-05,Premium,2,5000
+M0057,ValueStore #057,Utilities,Gurugram,North,2022-09-08,Standard,2,1000
+M0058,JetWay #058,Entertainment,Noida,North,2021-02-12,Premium,2,5000
+M0059,HealthPlus #059,Retail,Pune,West,2021-09-20,Standard,1,10000
+M0060,TripNest #060,Food & Beverage,Delhi,North,2022-07-17,Premium,2,1000
+M0061,JetWay #061,Food & Beverage,Hyderabad,South,2021-08-17,Premium,1,5000
+M0062,SwiftFuel #062,Travel,Chennai,South,2022-05-30,Premium,7,1000
+M0063,QuickMart #063,Retail,Hyderabad,South,2022-10-12,Premium,7,10000
+M0064,EnergyOne #064,Fuel,Hyderabad,South,2022-03-11,Enterprise,7,10000
+M0065,TechBazaar #065,Travel,Bengaluru,South,2021-11-09,Enterprise,3,1000
+M0066,TechBazaar #066,Entertainment,Mumbai,West,2022-01-01,Premium,1,500
+M0067,TasteHub #067,Travel,Mumbai,West,2022-04-30,Enterprise,2,2000
+M0068,UrbanBite #068,Retail,Hyderabad,South,2021-08-24,Standard,3,5000
+M0069,VoyageX #069,Healthcare,Ahmedabad,West,2022-01-02,Enterprise,3,2000
+M0070,TripNest #070,Fuel,Noida,North,2021-12-22,Standard,7,10000
+M0071,PlayHub #071,Retail,Delhi,North,2021-11-09,Standard,1,2000
+M0072,NovaTech #072,Fuel,Ahmedabad,West,2022-02-21,Standard,2,500
+M0073,FunArena #073,Electronics,Kolkata,East,2021-09-27,Enterprise,3,2000
+M0074,BroadLink #074,Electronics,Noida,North,2022-03-19,Premium,2,2000
+M0075,UrbanBite #075,Food & Beverage,Hyderabad,South,2022-09-10,Premium,7,10000
+M0076,TechBazaar #076,Fuel,Kolkata,East,2021-08-08,Enterprise,1,10000
+M0077,FuelStop #077,Entertainment,Ahmedabad,West,2022-11-13,Standard,2,5000
+M0078,DigiWorld #078,Travel,Kolkata,East,2021-05-29,Enterprise,2,1000
+M0079,QuickMart #079,Electronics,Hyderabad,South,2022-10-10,Premium,3,5000
+M0080,ShopEase #080,Travel,Bengaluru,South,2021-12-09,Enterprise,2,10000
+M0081,SpicePath #081,Travel,Mumbai,West,2022-04-17,Enterprise,1,5000
+M0082,FuelStop #082,Entertainment,Delhi,North,2021-02-05,Premium,1,2000
+M0083,NovaTech #083,Retail,Kolkata,East,2022-09-23,Premium,2,2000
+M0084,AquaFlow #084,Travel,Hyderabad,South,2021-02-03,Standard,3,10000
+M0085,VoyageX #085,Fuel,Bengaluru,South,2022-10-22,Standard,3,10000
+M0086,CircuitHub #086,Entertainment,Gurugram,North,2022-11-01,Premium,7,5000
+M0087,PlayHub #087,Electronics,Ahmedabad,West,2022-03-24,Standard,1,5000
+M0088,SpicePath #088,Healthcare,Mumbai,West,2022-05-12,Premium,7,2000
+M0089,FunArena #089,Travel,Gurugram,North,2022-11-12,Enterprise,3,1000
+M0090,ClickFlix #090,Food & Beverage,Hyderabad,South,2021-03-06,Standard,7,1000
+M0091,PowerGrid #091,Entertainment,Delhi,North,2022-06-29,Premium,3,10000
+M0092,SpicePath #092,Retail,Ahmedabad,West,2022-04-02,Enterprise,7,5000
+M0093,FunArena #093,Utilities,Bengaluru,South,2022-07-26,Enterprise,7,1000
+M0094,UrbanBite #094,Electronics,Ahmedabad,West,2021-08-05,Premium,1,5000
+M0095,DigiWorld #095,Electronics,Gurugram,North,2021-01-16,Premium,1,500
+M0096,AquaFlow #096,Utilities,Gurugram,North,2022-08-07,Enterprise,7,2000
+M0097,PlayHub #097,Fuel,Noida,North,2021-05-04,Enterprise,3,5000
+M0098,PharmaLink #098,Healthcare,Pune,West,2022-04-23,Premium,3,5000
+M0099,TechBazaar #099,Electronics,Ahmedabad,West,2021-08-13,Premium,1,5000
+M0100,PowerGrid #100,Electronics,Noida,North,2022-03-15,Enterprise,1,1000
+M0101,QuickMart #101,Retail,Gurugram,North,2021-11-20,Enterprise,2,5000
+M0102,UrbanBite #102,Electronics,Kolkata,East,2022-06-14,Premium,1,500
+M0103,VoyageX #103,Entertainment,Gurugram,North,2021-03-22,Premium,3,1000
+M0104,BroadLink #104,Fuel,Ahmedabad,West,2021-03-21,Enterprise,1,10000
+M0105,CircuitHub #105,Healthcare,Bengaluru,South,2022-08-07,Premium,2,10000
+M0106,ShopEase #106,Food & Beverage,Ahmedabad,West,2022-06-18,Premium,7,2000
+M0107,CineZone #107,Healthcare,Ahmedabad,West,2022-01-18,Premium,7,500
+M0108,FunArena #108,Fuel,Chennai,South,2022-08-14,Premium,3,5000
+M0109,GasSure #109,Entertainment,Hyderabad,South,2021-04-19,Standard,2,500
+M0110,ClickFlix #110,Fuel,Chennai,South,2022-11-06,Standard,7,10000
+M0111,RoamFast #111,Retail,Gurugram,North,2022-01-17,Enterprise,7,5000
+M0112,HealthPlus #112,Food & Beverage,Ahmedabad,West,2021-04-22,Standard,1,500
+M0113,QuickMart #113,Healthcare,Hyderabad,South,2021-01-08,Premium,7,1000
+M0114,FuelStop #114,Travel,Chennai,South,2021-11-13,Standard,3,5000
+M0115,TrendZone #115,Healthcare,Ahmedabad,West,2021-10-22,Enterprise,7,1000
+M0116,JetWay #116,Retail,Delhi,North,2022-05-13,Enterprise,3,500
+M0117,UrbanBite #117,Food & Beverage,Chennai,South,2022-09-16,Enterprise,3,5000
+M0118,SpicePath #118,Entertainment,Hyderabad,South,2021-04-05,Standard,1,2000
+M0119,CircuitHub #119,Fuel,Chennai,South,2021-02-28,Standard,2,2000
+M0120,UrbanBite #120,Fuel,Pune,West,2022-03-29,Standard,3,10000
