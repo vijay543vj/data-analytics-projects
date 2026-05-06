@@ -65,6 +65,7 @@ data-analytics-projects/
 ├── SQL_Project_2/
 ├── PowerBI_Project/
 ├── Excel_Projects/
+├── screenshots/
 └── README.md
 ```
 
